@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "768b",
+      "email": "a@mail.com",
+      "password": "1234AAaa",
+      "createdAt": 1732339575943
+    },
+    {
+      "id": "e2a1",
+      "email": "b@mail.com",
+      "password": "1234BBbb",
+      "createdAt": 1732339646845
+    },
+    {
+      "id": "d5de",
+      "email": "c@mail.com",
+      "password": "1234CCcc",
+      "createdAt": 1733594920113
+    },
+    {
+      "id": "ccfc",
+      "email": "nastia@mail.com",
+      "password": "1234AAaa",
+      "createdAt": 1733596840411
+    },
+    {
+      "id": "b008",
+      "email": "z@mail.com",
+      "password": "1234Zzzz",
+      "createdAt": 1734560565285
+    },
+    {
+      "id": "d90e",
+      "email": "m@mail.com",
+      "password": "1234MMmm",
+      "createdAt": 1734560632153
+    }
+  ],
+  "notes": [
+    {
+      "title": "Never gonna give you up",
+      "body": "Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you",
+      "createdAt": 1732339838162,
+      "authorId": "768b",
+      "id": "62ee"
+    },
+    {
+      "id": "dd74",
+      "title": "1",
+      "body": "Заметка 1",
+      "createdAt": 1733595225425,
+      "authorId": "d5de"
+    },
+    {
+      "title": "finonfnfkНе забудьте поправить все предыдущие проблемы приложения Notion. Оценка за эту работу будет близка к 0 баллам если НЕ сохраняется пользователь в LocStorage и НЕ проверяется каждый раз, что он -- правильный скачиванием его данных из db.json",
+      "body": "dngldnglndlkgnk",
+      "createdAt": 1733599701709,
+      "authorId": "768b",
+      "id": "56dc"
+    },
+    {
+      "id": "94a6",
+      "title": "1111",
+      "body": "",
+      "createdAt": 1733603261222,
+      "authorId": "e2a1"
+    }
+  ]
+}
