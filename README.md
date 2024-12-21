@@ -39,3 +39,6 @@ The application uses `react-router-dom` to define the following routes:
 ## Installation and Setup
 
    ```bash
+npm install
+npm run dev:db
+npm run dev
